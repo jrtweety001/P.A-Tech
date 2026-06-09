@@ -336,13 +336,12 @@ Our mission is to help businesses grow through secure, scalable, and innovative 
 <a class="whatsapp"
 href="https://wa.me/2348063090309"
 target="_blank">
-💬
+https://tse4.mm.bing.net/th/id/OIP.iw3DlZIuKLMyG_t4eKMbMAHaHa?pid=ImgDet&w=178&h=178&c=7&dpr=1.5&o=7&rm=3
 </a>
-
 <a class="tiktok"
 href="https://www.tiktok.com/@jrtweety001?_r=1&_t=ZS-9744eP2AAc6"
 target="-blank">
-💬
+ https://iconape.com/wp-content/files/fd/121669/svg/tiktok-logo-tik-tok-logo-icon-png-svg.png
 </a>
 
 </body>
