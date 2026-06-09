@@ -336,7 +336,7 @@ Our mission is to help businesses grow through secure, scalable, and innovative 
 <a class="whatsapp"
 href="https://wa.me/2348063090309"
 target="_blank">
-<img width="267" height="267" alt="image" src="https://github.com/user-attachments/assets/a22c4dda-bcfe-4dcf-b281-1068d828f667" />
+<img width="157" height="157" alt="image" src="https://github.com/user-attachments/assets/a22c4dda-bcfe-4dcf-b281-1068d828f667" />
 
 </a>
 
