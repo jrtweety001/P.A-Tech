@@ -337,11 +337,6 @@ Our mission is to help businesses grow through secure, scalable, and innovative 
 href="https://wa.me/2348063090309"
 target="_blank">
 💬
- 
- class="tiktok"
-href="https://www.tiktok.com/@jrtweety001?_r=1&_t=ZS-9744eP2AAc6"
-target="-blank">
-💬
 </a>
 
 </body>
